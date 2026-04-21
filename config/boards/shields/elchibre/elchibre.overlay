@@ -1,4 +1,5 @@
 #include "elchibre.dtsi"
+#include "elchibre-layouts.dtsi"
 
 &kscan0 {
     diode-direction = "col2row";
