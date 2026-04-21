@@ -2,9 +2,9 @@
 
 
 / {
-    physical_layout0: physical_layout0 {
+    default_layout: default_layout {
         compatible = "zmk,physical-layout";
-        display-name = "Default layout";
+        display-name = "El Chibre 3-thumb";
         transform = <&default_transform>;
         keys  //                     w   h    x    y     rot    rx    ry
             = <&key_physical_attrs 100 100    0    0       0     0     0>
